@@ -36,5 +36,6 @@ public class SimpleLlmClient {
         } catch (IllegalArgumentException ex) {
             return null;
         }
+
     }
 }
